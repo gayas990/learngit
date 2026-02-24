@@ -5,3 +5,6 @@ foyrth bug
 
 
 git pe push karra hu tujeh dsamjha
+
+ab sab bdia hogya 
+kyu nhi <i class="fa fa-hand-o-up" aria-hidden="true"></i>
