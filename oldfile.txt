@@ -2,3 +2,6 @@ bug <i class="fa fa-fire-extinguisher" aria-hidden="true"></i>foutrth
 
 
 foyrth bug 
+
+
+git pe push karra hu tujeh dsamjha
